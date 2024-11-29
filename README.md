@@ -13,3 +13,8 @@ conda activate ChatBot
 ```bash
 pip install -r requirements.txt
 ```
+
+```bash 
+if using pinecone first time
+%pip install -qU langchain-pinecone pinecone-notebooks
+```
