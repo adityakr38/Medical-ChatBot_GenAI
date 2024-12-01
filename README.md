@@ -71,7 +71,7 @@ The **MedicalChatbot** project leverages state-of-the-art AI techniques to build
    \`\`\`
 
 ## Usage
-- Open your browser and navigate to \`http://127.0.0.1:5000\` to interact with the chatbot.
+- Open your browser and navigate to \`http://127.0.0.1:8080\` to interact with the chatbot.
 
 ## Future Enhancements
 - Extend dataset for broader medical domains.
